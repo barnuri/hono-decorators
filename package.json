@@ -1,0 +1,21 @@
+{
+    "name": "@barnuri/hono-decorators",
+    "private": true,
+    "type": "module",
+    "exports": {
+        ".": "./src/index.ts"
+    },
+    "peerDependencies": {
+        "@hono/zod-openapi": "^1.6.3",
+        "hono": "^4.13.1",
+        "zod": "^4.4.3"
+    },
+    "devDependencies": {
+        "@hono/zod-openapi": "^1.6.3",
+        "@types/bun": "^1.2.0",
+        "@types/node": "^22.0.0",
+        "hono": "^4.13.1",
+        "typescript": "~5.9.2",
+        "zod": "^4.4.3"
+    }
+}
