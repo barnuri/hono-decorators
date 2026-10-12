@@ -1,5 +1,6 @@
 {
     "name": "@barnuri/hono-decorators",
+    "license": "MIT",
     "private": true,
     "type": "module",
     "exports": {
